@@ -1,0 +1,8 @@
+# ninja log v6
+2	90	1737640307879684738	CMakeFiles/AirlineReservationSystem.dir/interface.c.o	4a25614e879b5b6a
+91	179	1737640307968658992	AirlineReservationSystem	ef0ca10d6e0ca099
+2	90	1737640307879478198	CMakeFiles/AirlineReservationSystem.dir/creators.c.o	575fbfd8d9e7f249
+2	91	1737640307879587239	CMakeFiles/AirlineReservationSystem.dir/data.c.o	c4603edb5ea809b3
+2	91	1737640307879870446	CMakeFiles/AirlineReservationSystem.dir/sort.c.o	579174a62a1b0a17
+2	91	1737640307879775071	CMakeFiles/AirlineReservationSystem.dir/seats.c.o	330c83211d3aa308
+1	91	1737640307878872741	CMakeFiles/AirlineReservationSystem.dir/main.c.o	31b72900350795
